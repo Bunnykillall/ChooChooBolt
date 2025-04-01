@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Replace REE with nonsense memes
+Choo Choo
